@@ -1,0 +1,61 @@
+{
+  "items": [
+    {
+        "id": "1",
+        "title": "Crochet Handbag",
+        "price": 1000,
+        "image": "./images/bag1.jpg" 
+      
+    },
+    {
+      
+       "id": "2",
+        "title": "Small Basket",
+        "price": 300,
+        "image": "./images/basket1.png" 
+      },
+   
+    {
+       "id": "3" ,
+        "title": "Sling Bag",
+        "price": 450,
+        "image": "./images/p4.jpg" 
+      
+    },
+    {
+       "id": "4" ,
+        "title": " Scarf",
+        "price": 450,
+        "image": "./images/p9.jpg" 
+      
+    },
+    {
+        "id": "5" ,  
+        "title": "Double Infinity Loop Scarf",
+        "price": 450,
+        "image": "./images/p2.jpg" 
+      
+    },
+    {
+        "id": "6" ,
+        "title": "Multi-colored scarf",
+        "price": 500,
+        "image": "./images/p6.jpg" 
+      
+    },
+    {
+       "id": "7" ,
+        "title": "Beanie",
+        "price": 300,
+        "image": "./images/p5.jpg" 
+      
+    },
+    {
+        "id": "8" ,
+        "title": "Cactus crochet toy",
+        "price": 300,
+        "image": "./images/p3.jpg" 
+      
+    }
+  ]
+}
